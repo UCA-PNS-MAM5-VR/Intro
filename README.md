@@ -9,3 +9,5 @@ Chaque session
 - des ressources supplémentaires et des liens pour *aller plus loin*
 
 Accès : pour être inscrit au [Github Classroom](https://classroom.github.com/classrooms/118971699-vr-22-23), il faut m'envoyer votre *identifiant* github
+
+Pour apprendre à utiliser git et github vous pouvez faire ce devoir : https://lms.univ-cotedazur.fr/2022/course/view.php?id=1371
