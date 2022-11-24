@@ -8,4 +8,4 @@ Chaque session
 - un **TP noté** à faire et è rendre avant la session suivante
 - des ressources supplémentaires et des liens pour *aller plus loin*
 
-Accès : pour être inscrit au [Github Classroom](https://classroom.github.com/classrooms/73069573-rv-20-21), il faut m'envoyer votre *identifiant* github
+Accès : pour être inscrit au [Github Classroom](https://classroom.github.com/classrooms/118971699-vr-22-23), il faut m'envoyer votre *identifiant* github
